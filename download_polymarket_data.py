@@ -43,7 +43,6 @@ EVENTS = [
     {"slug": "will-trump-visit-china-by",                        "title": "Will Trump Visit China By"},
     {"slug": "what-will-the-usisrael-target-in-iran-by-march-31","title": "US/Israel Target in Iran by Mar 31"},
     {"slug": "will-crude-oil-cl-hit-by-end-of-march",            "title": "Crude Oil Hit Price by Mar 31"},
-    {"slug": "us-seizes-an-iran-linked-oil-tanker-by-march-7",   "title": "US Seizes Iran Oil Tanker by Mar 7"},
     {"slug": "march-inflation-us-annual",                         "title": "March Inflation US - Annual"},
 ]
 
